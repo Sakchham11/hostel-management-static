@@ -1,0 +1,84 @@
+
+/* ======================================== Navigatin Bar ======================================= */
+
+.navbar-nav :hover {
+    color: rgb(33, 139, 33) !important;
+}
+
+.navlogin {
+    display: flex;
+    float: right;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    right: 5%;
+}
+
+.navlogin img {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 25px;
+    align-items: center;
+    justify-content: center;
+}
+/* ============================= Main pages ================================ */
+
+.carousel-item img {
+    height: 50rem;
+    opacity: 0.9;
+}
+
+.main-massage {
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 18rem;
+}
+
+.main-massage a:hover {
+    background-color: rgb(33, 139, 33);
+    color: black;
+}
+/* ================ logiin page ==============*/
+
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2px 2px;
+}
+
+.reg-login:hover {
+    color:  rgb(33, 139, 33)!important;
+    /* background-color: white;
+    border-radius: 10px; */
+}
+.stafimg {
+height: 7rem;
+width: 7rem;
+border-radius: 70px;
+align-self: center;
+}
+
+.social {
+text-decoration: none;
+}
+.socialcolor{
+color: rgb(2, 3, 19) !important;
+
+}
+
+.padding{
+padding-top: 8rem;
+
+}
+.paddinghead{
+padding-top: 3rem;  
+justify-content:space-between;
+
+}
+.paraformat{
+    text-align: justify !important;
+}
